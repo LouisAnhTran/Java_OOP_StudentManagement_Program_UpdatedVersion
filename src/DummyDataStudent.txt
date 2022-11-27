@@ -1,0 +1,18 @@
+Tran Nam # 1005242 # 9.5 # 8.5 # 9
+Nguyen Hang # 1005312 # 5 # 8 # 6.8
+Pham Lu # 1005314 # 9 # 9 # 9
+Tran Tuan # 1006314 # 9 # 8 # 8.5
+Duong Mich # 1006214 # 7.2 # 7.8 # 7.2
+Duong Duong # 1006294 # 5.8 # 6.2 # 6.4
+Chau Dong Vu # 1007291 # 9.5 # 8 # 8.8
+Hua Khai # 1003211 # 9 # 8 # 8
+Ton Le # 1007621 # 7.5 # 7 # 6
+Thuong Co # 1002292 # 3.4 # 4 # 2
+Chich Duong # 1009391 # 9 # 7.8 # 8.6
+Canh Chieu # 1007221 # 3.4 # 8 # 2
+Huyen Diep # 1014391 # 4.4 # 2.6 # 5.4
+Trinh Tieu # 1107291 # 9 # 9 # 9
+Bach Quyet # 1012204 # 9.5 # 7.8 # 8
+Thien Khai # 1032784 # 8.6 # 7 # 6.2
+Nguyen Di # 1001287 # 6 # 6.2 # 6.4
+Vu Hoan # 1901987 # 9 # 7.8 # 8
